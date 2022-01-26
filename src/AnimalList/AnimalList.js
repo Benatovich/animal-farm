@@ -5,7 +5,7 @@ export default function AnimalList(props) {
   return (
     <div className='animal-list'>
       {
-        props.animals
+        // props.animals
       }
     </div>
   );
