@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header greeting='Welcome to the Animal Farm!'/>
-      <Main animals={[animals]}/>
+      <Main animals={animals}/>
       <Footer email='sambenatovich@gmail.com'/>
     </div>
   );

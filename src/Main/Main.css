@@ -6,3 +6,8 @@ main {
     height: calc(100vh - 80px);
     align-content: flex-start;
 }
+
+/* #root {
+    height: 100%;
+    width: 100%;
+} */
