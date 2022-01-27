@@ -3,7 +3,7 @@ export const animals = [
     name: 'Betsy the Cow',
     type: 'cow',
     says: 'Mooooooo!',
-    top: '200px',
+    top: '200',
     left: '50%',
   },
   {

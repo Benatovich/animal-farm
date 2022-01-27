@@ -7,6 +7,10 @@ body {
   --header-height: 40px;
 }
 
+html, body, #root, .App {
+  height: 100%;
+}
+
 /* everything below here came from the template */
 .App {
   text-align: center;
