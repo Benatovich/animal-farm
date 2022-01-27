@@ -1,3 +1,17 @@
+body {
+  --color1: #320e3b;
+  --color3: #4c2a85;
+  --color2: #6b7fd7;
+  --color4: #bcedf6;
+  --color5: #ddfbd2;
+  --header-height: 40px;
+}
+
+html, body, #root, .App {
+  height: 100%;
+}
+
+/* everything below here came from the template */
 .App {
   text-align: center;
 }
